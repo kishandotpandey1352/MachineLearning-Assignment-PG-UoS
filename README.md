@@ -15,3 +15,7 @@ The goal was to complete both parts.
 ### Highlights
 - Part 1: Finding the bee path
 - Part 2: Neural networks, Dimensionality reduction and Clustering
+#### Part 1
+-
+
+#### Part 2
